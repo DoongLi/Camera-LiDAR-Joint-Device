@@ -28,3 +28,15 @@ Free!
 
 Note: This device was designed by my friend Haoyuan ZHANG, and I paid for a meal in return.
 
+## Citation
+
+This project is part of [UMAD](https://github.com/IMRL/UMAD). If you find this work useful, please consider citing the paper:
+
+```
+@article{li2024umad
+  author    = {Li, Dong and Chen, Lineng and Xu, Cheng-Zhong and Kong, Hui},
+  title     = {UMAD: University of Macau Anomaly Detection Benchmark Dataset},
+  journal   = {arXiv preprint arXiv:2408.12527},
+  year      = {2024},
+}
+```

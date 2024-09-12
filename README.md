@@ -8,7 +8,7 @@
 
 Download links for all .step and .stl files:
 
-[https://drive.google.com/drive/folders/1joyl-LemxTImnbqVTSZiHiYjeqUCuGFM?usp=drive_link](https://drive.google.com/drive/folders/1joyl-LemxTImnbqVTSZiHiYjeqUCuGFM?usp=drive_link)
+[https://drive.google.com/drive/folders/1joyl-LemxTImnbqVTSZiHiYjeqUCuGFM?usp=sharing](https://drive.google.com/drive/folders/1joyl-LemxTImnbqVTSZiHiYjeqUCuGFM?usp=sharing)
 
 ## Images
 

@@ -33,10 +33,12 @@ Note: This device was designed by my friend Haoyuan ZHANG, and I paid for a meal
 This project is part of [UMAD](https://github.com/IMRL/UMAD). If you find this work useful, please consider citing the paper:
 
 ```
-@article{li2024umad
-  author    = {Li, Dong and Chen, Lineng and Xu, Cheng-Zhong and Kong, Hui},
-  title     = {UMAD: University of Macau Anomaly Detection Benchmark Dataset},
-  journal   = {arXiv preprint arXiv:2408.12527},
-  year      = {2024},
+@inproceedings{li2024umad,
+  title={UMAD: University of Macau Anomaly Detection Benchmark Dataset},
+  author={Li, Dong and Chen, Lineng and Xu, Cheng-Zhong and Kong, Hui},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={5836--5843},
+  year={2024},
+  organization={IEEE}
 }
 ```
